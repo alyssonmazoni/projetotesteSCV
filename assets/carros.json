@@ -1,0 +1,21 @@
+[{
+"carname": "Shelby Cobra",
+"caryear": 1967,
+"carfactory": "Ford",
+"carowner": "Ferretti",
+"carimage": "assets/ShelbyCobra.jpeg"
+},
+{
+"carname": "Champion",
+"caryear": 1967,
+"carfactory": "Studebaker",
+"carowner": "Ferretti",
+"carimage": "assets/Stude51.jpeg"
+},
+{
+"carname": "Pickup",
+"caryear": 1951,
+"carfactory": "Studebaker",
+"carowner": "Ferretti",
+"carimage": "assets/Stude51Pickup.jpeg"
+}]
